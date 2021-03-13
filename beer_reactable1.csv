@@ -1,0 +1,52 @@
+state_name,Total,Ale,Lager,Other
+Alaska,25,24,1,0
+Alabama,10,10,0,0
+Arkansas,5,4,1,0
+Arizona,47,43,4,0
+California,183,166,17,0
+Colorado,265,230,32,3
+Connecticut,27,23,4,0
+District of Columbia,8,8,0,0
+Delaware,2,2,0,0
+Florida,58,54,4,0
+Georgia,16,14,2,0
+Hawaii,27,21,6,0
+Iowa,30,25,5,0
+Idaho,30,26,4,0
+Illinois,91,86,5,0
+Indiana,139,124,15,0
+Kansas,23,22,1,0
+Kentucky,21,19,2,0
+Louisiana,19,17,2,0
+Massachusetts,82,59,20,3
+Maryland,21,19,2,0
+Maine,27,25,2,0
+Michigan,162,138,11,13
+Minnesota,55,48,7,0
+Missouri,42,34,8,0
+Mississippi,11,11,0,0
+Montana,40,36,4,0
+North Carolina,59,57,2,0
+North Dakota,3,3,0,0
+Nebraska,25,23,2,0
+New Hampshire,8,7,1,0
+New Jersey,8,8,0,0
+New Mexico,14,11,3,0
+Nevada,11,7,4,0
+New York,74,57,17,0
+Ohio,49,43,3,3
+Oklahoma,19,16,3,0
+Oregon,125,102,13,10
+Pennsylvania,100,77,21,2
+Rhode Island,27,20,7,0
+South Carolina,14,14,0,0
+South Dakota,7,7,0,0
+Tennessee,6,4,2,0
+Texas,130,109,21,0
+Utah,26,18,8,0
+Virginia,40,32,8,0
+Vermont,27,24,2,1
+Washington,68,52,11,5
+Wisconsin,87,48,37,2
+West Virginia,2,2,0,0
+Wyoming,15,13,2,0
