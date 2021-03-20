@@ -1,0 +1,189 @@
+ids,labels,parents,values,colours
+Argentina,Argentina,,3166,lightgray
+Australia,Australia,,1261,thistle
+France,France,,18009,gainsboro
+Italy,Italy,,11297,lavender
+Spain,Spain,,3288,lightgreen
+US,US,,47246,lightblue
+Argentina-Mendoza Province,Mendoza Province,Argentina,2800,lightgray
+Argentina-Other,Other,Argentina,366,lightgray
+Australia-Australia Other,Australia Other,Australia,167,thistle
+Australia-New South Wales,New South Wales,Australia,41,thistle
+Australia-South Australia,South Australia,Australia,631,thistle
+Australia-Tasmania,Tasmania,Australia,42,thistle
+Australia-Victoria,Victoria,Australia,182,thistle
+Australia-Western Australia,Western Australia,Australia,198,thistle
+France-Alsace,Alsace,France,2087,gainsboro
+France-Beaujolais,Beaujolais,France,1026,gainsboro
+France-Bordeaux,Bordeaux,France,5729,gainsboro
+France-Burgundy,Burgundy,France,3937,gainsboro
+France-Champagne,Champagne,France,1589,gainsboro
+France-France Other,France Other,France,401,gainsboro
+France-Languedoc-Roussillon,Languedoc-Roussillon,France,354,gainsboro
+France-Loire Valley,Loire Valley,France,1133,gainsboro
+France-Provence,Provence,France,150,gainsboro
+France-Rhône Valley,Rhône Valley,France,631,gainsboro
+France-Southwest France,Southwest France,France,972,gainsboro
+Italy-Central Italy,Central Italy,Italy,478,lavender
+Italy-Italy Other,Italy Other,Italy,67,lavender
+Italy-Lombardy,Lombardy,Italy,338,lavender
+Italy-Northeastern Italy,Northeastern Italy,Italy,1077,lavender
+Italy-Northwestern Italy,Northwestern Italy,Italy,2,lavender
+Italy-Piedmont,Piedmont,Italy,2775,lavender
+Italy-Sicily & Sardinia,Sicily & Sardinia,Italy,750,lavender
+Italy-Southern Italy,Southern Italy,Italy,241,lavender
+Italy-Tuscany,Tuscany,Italy,4772,lavender
+Italy-Veneto,Veneto,Italy,797,lavender
+Spain-Andalucia,Andalucia,Spain,12,lightgreen
+Spain-Catalonia,Catalonia,Spain,981,lightgreen
+Spain-Central Spain,Central Spain,Spain,326,lightgreen
+Spain-Galicia,Galicia,Spain,38,lightgreen
+Spain-Levante,Levante,Spain,193,lightgreen
+Spain-Northern Spain,Northern Spain,Spain,1687,lightgreen
+Spain-Spain Other,Spain Other,Spain,31,lightgreen
+Spain-Spanish Islands,Spanish Islands,Spain,20,lightgreen
+US-America,America,US,86,lightblue
+US-Arizona,Arizona,US,30,lightblue
+US-California,California,US,31548,lightblue
+US-Colorado,Colorado,US,59,lightblue
+US-Connecticut,Connecticut,US,3,lightblue
+US-Hawaii,Hawaii,US,1,lightblue
+US-Idaho,Idaho,US,144,lightblue
+US-Illinois,Illinois,US,6,lightblue
+US-Iowa,Iowa,US,1,lightblue
+US-Kentucky,Kentucky,US,1,lightblue
+US-Massachusetts,Massachusetts,US,4,lightblue
+US-Michigan,Michigan,US,93,lightblue
+US-Missouri,Missouri,US,9,lightblue
+US-Nevada,Nevada,US,2,lightblue
+US-New Jersey,New Jersey,US,8,lightblue
+US-New Mexico,New Mexico,US,36,lightblue
+US-New York,New York,US,2321,lightblue
+US-North Carolina,North Carolina,US,15,lightblue
+US-Ohio,Ohio,US,12,lightblue
+US-Oregon,Oregon,US,4828,lightblue
+US-Pennsylvania,Pennsylvania,US,16,lightblue
+US-Rhode Island,Rhode Island,US,1,lightblue
+US-Texas,Texas,US,37,lightblue
+US-Virginia,Virginia,US,526,lightblue
+US-Washington,Washington,US,7455,lightblue
+US-Washington-Oregon,Washington-Oregon,US,4,lightblue
+Mendoza Province-Red,Red,Argentina-Mendoza Province,2384,bisque
+Mendoza Province-White,White,Argentina-Mendoza Province,416,honeydew
+Other-Red,Red,Argentina-Other,300,bisque
+Other-White,White,Argentina-Other,66,honeydew
+Australia Other-Red,Red,Australia-Australia Other,40,bisque
+Australia Other-White,White,Australia-Australia Other,127,honeydew
+New South Wales-Red,Red,Australia-New South Wales,9,bisque
+New South Wales-White,White,Australia-New South Wales,32,honeydew
+South Australia-Red,Red,Australia-South Australia,302,bisque
+South Australia-White,White,Australia-South Australia,329,honeydew
+Tasmania-Red,Red,Australia-Tasmania,18,bisque
+Tasmania-White,White,Australia-Tasmania,24,honeydew
+Victoria-Red,Red,Australia-Victoria,107,bisque
+Victoria-White,White,Australia-Victoria,75,honeydew
+Western Australia-Red,Red,Australia-Western Australia,81,bisque
+Western Australia-White,White,Australia-Western Australia,117,honeydew
+Alsace-Red,Red,France-Alsace,156,bisque
+Alsace-White,White,France-Alsace,1931,honeydew
+Beaujolais-Red,Red,France-Beaujolais,987,bisque
+Beaujolais-White,White,France-Beaujolais,39,honeydew
+Bordeaux-Red,Red,France-Bordeaux,4703,bisque
+Bordeaux-White,White,France-Bordeaux,1026,honeydew
+Burgundy-Red,Red,France-Burgundy,1563,bisque
+Burgundy-White,White,France-Burgundy,2374,honeydew
+Champagne-Red,Red,France-Champagne,72,bisque
+Champagne-White,White,France-Champagne,1517,honeydew
+France Other-Red,Red,France-France Other,172,bisque
+France Other-White,White,France-France Other,229,honeydew
+Languedoc-Roussillon-Red,Red,France-Languedoc-Roussillon,273,bisque
+Languedoc-Roussillon-White,White,France-Languedoc-Roussillon,81,honeydew
+Loire Valley-Red,Red,France-Loire Valley,312,bisque
+Loire Valley-White,White,France-Loire Valley,821,honeydew
+Provence-Red,Red,France-Provence,128,bisque
+Provence-White,White,France-Provence,22,honeydew
+Rhône Valley-Red,Red,France-Rhône Valley,626,bisque
+Rhône Valley-White,White,France-Rhône Valley,5,honeydew
+Southwest France-Red,Red,France-Southwest France,722,bisque
+Southwest France-White,White,France-Southwest France,250,honeydew
+Central Italy-Red,Red,Italy-Central Italy,325,bisque
+Central Italy-White,White,Italy-Central Italy,153,honeydew
+Italy Other-Red,Red,Italy-Italy Other,19,bisque
+Italy Other-White,White,Italy-Italy Other,48,honeydew
+Lombardy-Red,Red,Italy-Lombardy,74,bisque
+Lombardy-White,White,Italy-Lombardy,264,honeydew
+Northeastern Italy-Red,Red,Italy-Northeastern Italy,72,bisque
+Northeastern Italy-White,White,Italy-Northeastern Italy,1005,honeydew
+Northwestern Italy-Red,Red,Italy-Northwestern Italy,1,bisque
+Northwestern Italy-White,White,Italy-Northwestern Italy,1,honeydew
+Piedmont-Red,Red,Italy-Piedmont,2727,bisque
+Piedmont-White,White,Italy-Piedmont,48,honeydew
+Sicily & Sardinia-Red,Red,Italy-Sicily & Sardinia,491,bisque
+Sicily & Sardinia-White,White,Italy-Sicily & Sardinia,259,honeydew
+Southern Italy-Red,Red,Italy-Southern Italy,178,bisque
+Southern Italy-White,White,Italy-Southern Italy,63,honeydew
+Tuscany-Red,Red,Italy-Tuscany,4629,bisque
+Tuscany-White,White,Italy-Tuscany,143,honeydew
+Veneto-Red,Red,Italy-Veneto,581,bisque
+Veneto-White,White,Italy-Veneto,216,honeydew
+Andalucia-Red,Red,Spain-Andalucia,9,bisque
+Andalucia-White,White,Spain-Andalucia,3,honeydew
+Catalonia-Red,Red,Spain-Catalonia,398,bisque
+Catalonia-White,White,Spain-Catalonia,583,honeydew
+Central Spain-Red,Red,Spain-Central Spain,279,bisque
+Central Spain-White,White,Spain-Central Spain,47,honeydew
+Galicia-Red,Red,Spain-Galicia,6,bisque
+Galicia-White,White,Spain-Galicia,32,honeydew
+Levante-Red,Red,Spain-Levante,166,bisque
+Levante-White,White,Spain-Levante,27,honeydew
+Northern Spain-Red,Red,Spain-Northern Spain,1485,bisque
+Northern Spain-White,White,Spain-Northern Spain,202,honeydew
+Spain Other-Red,Red,Spain-Spain Other,16,bisque
+Spain Other-White,White,Spain-Spain Other,15,honeydew
+Spanish Islands-Red,Red,Spain-Spanish Islands,14,bisque
+Spanish Islands-White,White,Spain-Spanish Islands,6,honeydew
+America-Red,Red,US-America,44,bisque
+America-White,White,US-America,42,honeydew
+Arizona-Red,Red,US-Arizona,20,bisque
+Arizona-White,White,US-Arizona,10,honeydew
+California-Red,Red,US-California,22662,bisque
+California-White,White,US-California,8886,honeydew
+Colorado-Red,Red,US-Colorado,51,bisque
+Colorado-White,White,US-Colorado,8,honeydew
+Connecticut-Red,Red,US-Connecticut,1,bisque
+Connecticut-White,White,US-Connecticut,2,honeydew
+Hawaii-White,White,US-Hawaii,1,honeydew
+Idaho-Red,Red,US-Idaho,89,bisque
+Idaho-White,White,US-Idaho,55,honeydew
+Illinois-White,White,US-Illinois,6,honeydew
+Iowa-White,White,US-Iowa,1,honeydew
+Kentucky-Red,Red,US-Kentucky,1,bisque
+Massachusetts-Red,Red,US-Massachusetts,1,bisque
+Massachusetts-White,White,US-Massachusetts,3,honeydew
+Michigan-Red,Red,US-Michigan,42,bisque
+Michigan-White,White,US-Michigan,51,honeydew
+Missouri-Red,Red,US-Missouri,5,bisque
+Missouri-White,White,US-Missouri,4,honeydew
+Nevada-Red,Red,US-Nevada,2,bisque
+New Jersey-Red,Red,US-New Jersey,4,bisque
+New Jersey-White,White,US-New Jersey,4,honeydew
+New Mexico-Red,Red,US-New Mexico,29,bisque
+New Mexico-White,White,US-New Mexico,7,honeydew
+New York-Red,Red,US-New York,794,bisque
+New York-White,White,US-New York,1527,honeydew
+North Carolina-Red,Red,US-North Carolina,10,bisque
+North Carolina-White,White,US-North Carolina,5,honeydew
+Ohio-Red,Red,US-Ohio,3,bisque
+Ohio-White,White,US-Ohio,9,honeydew
+Oregon-Red,Red,US-Oregon,3429,bisque
+Oregon-White,White,US-Oregon,1399,honeydew
+Pennsylvania-Red,Red,US-Pennsylvania,11,bisque
+Pennsylvania-White,White,US-Pennsylvania,5,honeydew
+Rhode Island-White,White,US-Rhode Island,1,honeydew
+Texas-Red,Red,US-Texas,31,bisque
+Texas-White,White,US-Texas,6,honeydew
+Virginia-Red,Red,US-Virginia,330,bisque
+Virginia-White,White,US-Virginia,196,honeydew
+Washington-Red,Red,US-Washington,5777,bisque
+Washington-White,White,US-Washington,1678,honeydew
+Washington-Oregon-White,White,US-Washington-Oregon,4,honeydew
